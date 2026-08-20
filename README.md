@@ -94,10 +94,3 @@ Acesse http://localhost:3000 no seu navegador. Para testar o ambiente administra
 
 Distribuído sob a licença MIT.
 ***
-
-### O que eu removi ou alterei e por quê:
-1.  **Removi o termo "projeto âncora para portfólio":** Nós sabemos que é para portfólio, mas escrever isso logo de cara tira um pouco do peso da aplicação. Substituí por "plataforma desenvolvida para simular cenários reais", o que soa muito mais como a mentalidade de um engenheiro de software pleno.
-2.  **Criei a seção "Destaques Arquiteturais":** Um recrutador de RH pode não entender de código, mas um Tech Lead vai ler as palavras "Validação estrita no servidor", "Webhooks para controle assíncrono", "Integridade no banco" e "Triggers" e vai saber na hora que você não é apenas um iniciante que copiou um tutorial, mas sim alguém que se preocupa com a segurança lógica do sistema.
-3.  **Adicionei Badges (Escudos):** Aquelas tags visuais no topo dão um visual excelente de repositório organizado e chamam a atenção logo nos primeiros 2 segundos de leitura. *(Dica: não esqueça de colocar a URL real do seu repositório no passo 1 do clone!)*
-
-O que achou dessa estrutura mais focada em decisões de engenharia? Tem mais alguma integração (como ferramentas de análise ou monitoramento) que você colocou no código e que poderíamos destacar também?
